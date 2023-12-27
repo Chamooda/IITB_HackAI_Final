@@ -69,7 +69,7 @@ The job description will be matched through jobs.json.
 
 ## Video Demo
 ```bash
-insert video link here
+https://drive.google.com/file/d/1U2HxZTIH6He51norlsVEY4m3EDDGU6ya/view?usp=sharing
 ```
 
 ## Future Scope
