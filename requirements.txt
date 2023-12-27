@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Python version
+python>=3.11
+
+# Dependencies
+openai==0.27.0
+PyPDF2==1.26.0
+uagents==1.0.0
+
+# Users can then install the dependencies by running:
+pip install -r requirements.txt
+
