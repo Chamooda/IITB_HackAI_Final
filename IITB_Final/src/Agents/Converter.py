@@ -27,7 +27,7 @@ async def message_handler(ctx: Context, sender: str, msg: Message):
          with open(file_path, 'r') as file:
             Job_Queries = json.load(file)
             for key, value in Job_Queries.items():
-                os.environ["OPENAI_API_KEY"] = "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"
+                os.environ["OPENAI_API_KEY"] = "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" # this API key has been deactivated. Generate a new key at openai.com
 
                 pdf_loader = PyPDFLoader(resume)
                 documents = pdf_loader.load()
